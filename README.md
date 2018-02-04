@@ -1,2 +1,2 @@
 # CoreUpgrade2018
-Repositorio de proyectos - retos por semana
+Repositorio de proyectos - Retos por semana
